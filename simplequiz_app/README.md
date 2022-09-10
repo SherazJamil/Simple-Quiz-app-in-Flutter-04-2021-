@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Simple Quiz application is a Flutter mobile application that was created in April 202
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
